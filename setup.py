@@ -20,7 +20,7 @@ setup(
         "transformers>=4.30.0",
         "huggingface-hub",
         "scipy",
-        "numpy<1.24",
+        "numpy<2.0",
         "pytest",
         "scikit-learn",
         "invisible-watermark",
